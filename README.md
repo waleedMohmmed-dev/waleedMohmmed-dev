@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/waleed-moh-657792357/" target="_blank">
+  <a href="https://www.linkedin.com/in/waleed-mohmmed-812481374/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.youtube.com/" target="_blank">
@@ -102,5 +102,5 @@ I’m currently seeking an internship opportunity to gain hands-on experience an
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/waleed-moh-657792357/)
+- [LinkedIn](https://www.linkedin.com/in/waleed-mohmmed-812481374/)
 - You can reach out to me via email at [Gmail](mailto:waleedmoh766@gmail.com)

@@ -53,6 +53,7 @@ I’m currently seeking an internship opportunity to gain hands-on experience an
 ###
 
 <h2 align="left">
+• Object-Oriented Programming (OOP)<br>
 • Data Structures & Algorithms<br>
 • Flutter & Dart<br>
 • Google Maps & Geolocation<br>
@@ -62,7 +63,7 @@ I’m currently seeking an internship opportunity to gain hands-on experience an
 • Postman<br>
 • UI/UX Implementation<br>
 • Localization<br>
-• Git & GitHub
+• Version Control System (Git & GitHub)
 </h2>
 
 ###
@@ -77,6 +78,8 @@ I’m currently seeking an internship opportunity to gain hands-on experience an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
